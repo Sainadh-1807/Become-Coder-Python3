@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sainadh
 - 👀 I’m interested in Space and Technology
 - 🌱 I’m currently a learner 
-- 📝 I'm always to learn 🆕 things
+- 📝 I'm always curious to learn 🆕 things
 - 📫 How to reach me : sainadhreddy.1807@gmail.com
 
 <!---
