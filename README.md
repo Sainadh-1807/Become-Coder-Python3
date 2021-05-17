@@ -2,7 +2,7 @@
 - 👀 I’m interested in Space and Technology
 - 🌱 I’m currently a learner 
 - 📝 I'm always curious to learn 🆕 things
-- 📫 How to reach me : sainadhreddy.1807@gmail.com
+- 📫 Reach me : sainadhreddy.1807@gmail.com
 
 <!---
 Sainadh-1807/Sainadh-1807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
